@@ -7,4 +7,4 @@ Super, html funktioniert auch!
 
 Kann man auch Bilder einfügen?
 
-<img> src="2015_Itscalledreading.jpg" />
+<img> src="2015_Itscalledreading.jpg" </img>
