@@ -4,3 +4,10 @@
 * So wie es aussieht, funktioniert es.
 
 Super, html funktioniert auch!
+
+Kann man auch Bilder einfügen?
+
+<img> 
+
+
+</img>
