@@ -7,4 +7,4 @@ Super, html funktioniert auch!
 
 Kann man auch Bilder einfügen?
 
-<img> src="2015_Itscalledreading.jpg" </img>
+![](https://i.imgur.com/9wRzsbo.jpg)
